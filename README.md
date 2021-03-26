@@ -23,4 +23,4 @@ Warning!
 
 
 Feel free to improve it but don't use it!!
-You can also send me your improvemts! :=
+You can also send me your improvemts!
