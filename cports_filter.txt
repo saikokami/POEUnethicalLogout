@@ -1,0 +1,2 @@
+
+include:process:PathOfExile_x64Steam.exe
