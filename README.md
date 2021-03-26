@@ -19,7 +19,7 @@ How it works:
 Warning!
 - The script is very inconsistent and unstable because it's just for learning how to handle with pixels and stuff :)
 - PoE - Terms of use https://www.pathofexile.com/legal/terms-of-use-and-privacy-policy
-
+- Currently only for Steam but feel free to change the name of the process to yours on line 45 in main.py
 
 
 Feel free to improve it but don't use it!!
