@@ -1,4 +1,4 @@
-# unethicalLogoutPOE
+POEUnethicalLogout
 Not allowed by GGG, for educational purposes only!
 
 - You need Python installed on your computer
