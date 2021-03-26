@@ -1,7 +1,8 @@
 POEUnethicalLogout
 Not allowed by GGG, for educational purposes only!
 
-- You need [Python](https://www.python.org/downloads/) installed on your computer
+- You need [Python](https://www.python.org/downloads/) installed on your computer to change the code.
+- I added Steam (64bit) friendly exe (compiled with pyinstaller)
 - Download: [Zip](https://github.com/saikokami/POEUnethicalLogout/archive/refs/heads/main.zip)
 
 How it works:
