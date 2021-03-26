@@ -3,6 +3,7 @@ Not allowed by GGG, for educational purposes only!
 
 - You need Python installed on your computer
 - I'm using win32api, keyboard, time, pyautogui so make sure u have those installed!
+- Download: [Zip](https://github.com/saikokami/POEUnethicalLogout/archive/refs/heads/main.zip)
 
 How it works:
 - The script is just checking specific pixels on your screen.
