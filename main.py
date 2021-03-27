@@ -9,6 +9,7 @@ import os
 # pyautogui.displayMousePosition() for console
 
 
+# Source: https://rosettacode.org/wiki/Color_of_a_screen_pixel#Python 
 def get_pixel_colour(i_x, i_y):
 	import win32gui
 	i_desktop_window_id = win32gui.GetDesktopWindow()

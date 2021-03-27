@@ -1,8 +1,7 @@
 POEUnethicalLogout
 Not allowed by GGG, for educational purposes only!
 
-- You need [Python](https://www.python.org/downloads/) installed on your computer to change the code.
-- I added Steam (64bit) friendly exe (compiled with pyinstaller)
+- You need [Python](https://www.python.org/downloads/) installed on your computer
 - Download: [Zip](https://github.com/saikokami/POEUnethicalLogout/archive/refs/heads/main.zip)
 
 How it works:
@@ -20,8 +19,8 @@ How it works:
 Warning!
 - The script is very inconsistent and unstable because it's just for learning how to handle with pixels and stuff :)
 - PoE - Terms of use https://www.pathofexile.com/legal/terms-of-use-and-privacy-policy
-- Currently only for Steam but feel free to change the name of the process to yours on line 45 in main.py
+- Currently only for Steam but feel free to change the name of the process to yours on line 46 in main.py
 
 
-Feel free to improve it but don't use it!!
+Feel free to improve it but don't use it!!!
 You can also send me your improvements!
