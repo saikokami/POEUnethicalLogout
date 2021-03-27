@@ -9,7 +9,7 @@ How it works:
   -> This prevents that the script need to inject anything into the client!
   
 - When running the script, u need to hover your mouse over the left bottom healthbar and press space to confirm.
-- Then you have to press ESC to fetch to pixel color if u press esc (because its a different color!).
+- Then you have to press ESC to fetch the pixel color if u press esc (because its a different color!).
 
 - Now if your health drops, the pixel color will change and the script will logout.
 
